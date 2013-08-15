@@ -1,7 +1,7 @@
 thermometer
 ===========
 
-This set of scripts read temperature from temperature from RS485 thermometer ('TQS3 I' from www.papouch.com) via RS485/USB 
+This set of scripts reads temperature from RS485 thermometer ('TQS3 I' from www.papouch.com) via RS485/USB 
 converter ('SB485L' from www.papouch.com) using script get_temperature.py. 
 
 Data readed from thermometer are saved into the SQLite database every minute
