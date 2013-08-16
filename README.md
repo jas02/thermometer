@@ -12,7 +12,7 @@ using cron record:
 ```
 
 Then, we have set of scripts, that creates and updates RRD graphs, creates PNG
-pictures (every five minute) and copy those PNG files into web root directory.
+pictures (every five minutes) and copy those PNG files into web root directory.
 
 Cron entry for RRD updates:
 
